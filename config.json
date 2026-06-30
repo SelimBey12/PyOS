@@ -1,0 +1,8 @@
+{
+  "os_name": "PyOS",
+  "version": "0.1",
+  "user": "admin",
+  "auto_install_libs": true,
+  "theme": "dark",
+  "debug_mode": true
+}
